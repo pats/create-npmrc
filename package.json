@@ -1,0 +1,22 @@
+{
+  "name": "create-npmrc",
+  "version": "0.0.1",
+  "description": "Create .npmrc on the fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pats/create-npmrc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pats/create-npmrc/issues"
+  },
+  "homepage": "https://github.com/pats/create-npmrc#readme",
+  "dependencies": {
+    "meow": "^5.0.0"
+  }
+}
